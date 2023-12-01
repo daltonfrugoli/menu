@@ -41,6 +41,6 @@ export const styles = StyleSheet.create({
         fontSize: 30,
         fontWeight: 'bold',
         alignSelf: 'center',
-        marginTop: 40
+        marginVertical: 40
     }
 })
